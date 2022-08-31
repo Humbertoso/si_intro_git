@@ -9,3 +9,8 @@ div#container h1{
     color: blue;
     text-align: center;
 }
+
+div#container h2{
+    color: green;
+    text-align: center;
+}
